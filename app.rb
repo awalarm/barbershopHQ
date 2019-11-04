@@ -12,6 +12,6 @@ class Barber < ActiveRecord::Base
 end
 
 get '/' do
-  erb 'Мой первый сайт Блогas'
+  erb :index
 end
 
