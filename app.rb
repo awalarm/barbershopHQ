@@ -4,6 +4,6 @@ require "sinatra/reloader"
 
 
 get '/' do
-  erb 'Мой первый сайт Блогasdsa'
+  erb 'Мой первый сайт Блогas'
 end
 
